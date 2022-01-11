@@ -1,0 +1,6 @@
+C:\File Pelajaran (D)\C# VSCODE2019\PAT\WCFService_2Way_050\WCFService_2Way_050\bin\Debug\WCFService_2Way_050.dll.config
+C:\File Pelajaran (D)\C# VSCODE2019\PAT\WCFService_2Way_050\WCFService_2Way_050\bin\Debug\WCFService_2Way_050.dll
+C:\File Pelajaran (D)\C# VSCODE2019\PAT\WCFService_2Way_050\WCFService_2Way_050\bin\Debug\WCFService_2Way_050.pdb
+C:\File Pelajaran (D)\C# VSCODE2019\PAT\WCFService_2Way_050\WCFService_2Way_050\obj\Debug\WCFService_2Way_050.csproj.CoreCompileInputs.cache
+C:\File Pelajaran (D)\C# VSCODE2019\PAT\WCFService_2Way_050\WCFService_2Way_050\obj\Debug\WCFService_2Way_050.dll
+C:\File Pelajaran (D)\C# VSCODE2019\PAT\WCFService_2Way_050\WCFService_2Way_050\obj\Debug\WCFService_2Way_050.pdb
