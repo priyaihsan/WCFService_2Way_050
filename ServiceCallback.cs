@@ -23,7 +23,7 @@ namespace WCFService_2Way_050
         {
             IClientCallback koneksiPesan = OperationContext.Current.GetCallbackChannel<IClientCallback>();
             string user;
-            if(userList.TryGetValue(koneksiPesan, out user))
+            if(!userList.TryGetValue(koneksiPesan, out user))
             {
                 return;
             }
